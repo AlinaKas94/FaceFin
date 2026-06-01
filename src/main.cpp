@@ -817,7 +817,7 @@ private:
                     <li><b>Google PDFium / libzip:</b> Парсинг документів docx та pdf.</li>
                 </ul>
                 <hr>
-                <p><b>АВТОР ТА РОЗРОБНИК:</b> Kasko</p>
+                <p><b>АВТОР ТА РОЗРОБНИК:</b> AlinaKas94</p>
                 <p style='font-size: 11px; color: #888888;'>Програмне забезпечення базується на компонентах з відкритим вихідним кодом. Усі права на використані бібліотеки (OpenCV, Qt, FAISS, ONNX) належать їх відповідним авторам згідно з ліцензіями Apache 2.0, MIT та (L)GPL.</p>
             )"));
             layout.addWidget(&text); dlg.exec(); });
